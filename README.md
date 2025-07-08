@@ -12,7 +12,7 @@ Below is an outline of my PSII.
 
 Linked here is a PDF of my PSI, which my PSII will be built upon.
 
-[PSI](RobinFujie.github.io/11230003_PSI.pdf)
+[PSI](/11230003_PSI.pdf)
 
 
 ## PSII
