@@ -10,8 +10,8 @@ My Project Study (PSII) will be focussing on Japanese language aquisition by my 
 
 Below is an outline of my PSII.
 
-# PSII
-## Overview
+## PSII
+### Overview
 Due Date: December 8th 2025
 
 本文字数: 4,750-5,500字 (excluding bibliography)
@@ -27,7 +27,7 @@ Due Date: December 8th 2025
 > *'harsh' referring to how strict and constructive their teachers and peers are*
 
 
-## Method
+### Method
 An extensive Google Forms survey will be created (as per PSI).
 
 (Most survey questions will be multiple choice - very few free-answer questions)
@@ -45,8 +45,8 @@ Quantitative data from survey will be presented and analysed as graphs.
 
 Qualitative data from interviews will be dictated and common sentiments will be quoted and analysed. 
 
-## Example Questions
-### **1. Regarding learning environment:**
+### Example Questions
+#### **1. Regarding learning environment:**
      
 To improve a student’s Japanese language ability, what qualities do you think are necessary for a language teacher to have?
 
@@ -59,7 +59,7 @@ To improve a student’s Japanese language ability, what qualities do you think 
 - Placing of educational pressure and expectation on students
 - Effective and memorable teaching style
 
-### **2. Regarding self-assessed level:**
+#### **2. Regarding self-assessed level:**
      
 How confident do you feel about your level of Japanese when considering the below scenarios?
 
@@ -73,7 +73,7 @@ How confident do you feel about your level of Japanese when considering the belo
 - Reading and understanding specialised texts
 - Writing reports and essays
 
-### **1. 教育環境に対して**
+#### **1. 教育環境に対して**
 
 日本語力を上げるためには、日本語の先生はどのような素質が必要だと思うか。
 
@@ -86,7 +86,7 @@ How confident do you feel about your level of Japanese when considering the belo
 - 学生の成長を信じて、期待してくれること
 - 記憶に残る、効果的な教え方
 
-### **2．日本語力の自己評価に対して**
+#### **2．日本語力の自己評価に対して**
 
 現在のあなたの日本語能力について、自信の度合いを教えてください。
 
