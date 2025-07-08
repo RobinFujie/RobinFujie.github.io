@@ -2,7 +2,7 @@
 
 ## About Me
 **G'day 👋**
-I'm a 3rd-year 現プロ生　at 北大. 
+I'm a 3rd-year 現プロ生 at 北大. 
 
 As part of the program, students are required to write a 'Project Study', which is an essay based on our choice of research.
 
