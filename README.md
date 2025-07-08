@@ -8,12 +8,11 @@ As part of the program, students are required to write a 'Project Study', which 
 
 My Project Study (PSII) will be focussing on Japanese language aquisition by my fellow 現プロ生.
 
-Below is an outline of my PSII.
-
-Linked here is a PDF of my PSI, which my PSII will be built upon.
+Linked below is a PDF of my PSI, which my PSII will be built upon.
 
 [PSI](/11230003_PSI.pdf)
 
+Below is an outline of my PSII.
 
 ## PSII
 ### Overview
