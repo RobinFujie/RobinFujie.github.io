@@ -10,6 +10,11 @@ My Project Study (PSII) will be focussing on Japanese language aquisition by my 
 
 Below is an outline of my PSII.
 
+Linked here is a PDF of my PSI, which my PSII will be built upon.
+
+[PSI](RobinFujie.github.io/11230003_PSI.pdf)
+
+
 ## PSII
 ### Overview
 Due Date: December 8th 2025
